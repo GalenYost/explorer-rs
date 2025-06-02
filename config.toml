@@ -1,0 +1,2 @@
+def_dir = "./src/"
+hidden_files = false
